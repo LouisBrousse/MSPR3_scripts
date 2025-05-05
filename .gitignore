@@ -1,0 +1,6 @@
+# Ignorer le dossier de l'environnement virtuel
+env/
+.env/
+
+# Ignorer le dossier contenant les fichiers CSV
+election_presidentielle/
